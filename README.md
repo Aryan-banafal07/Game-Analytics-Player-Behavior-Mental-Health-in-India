@@ -59,4 +59,4 @@ Contributing
 Contributions are welcome! Open issues or submit pull requests with suggestions and improvements.
 
 Contact
-For questions or feedback, visit my portfolio website or reach out directly.
+For questions or feedback, visit [my portfolio website or reach out directly](https://aryanbanafal.vercel.app).
